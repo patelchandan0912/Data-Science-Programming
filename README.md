@@ -1,5 +1,5 @@
 <h1>Data-Science-Programming</h1>
-DSP-1 Covers various Topics 
+<h2>DSP-1 Covers various Topics <h2>
     - Data set Preparation
     - Types of Values
     - Categorical Class, Nominal, Ordinal, Binary
